@@ -11,8 +11,8 @@ I'm a Full-Stack Developer 💻!
  ### 🤝 Connect with me:
 
 
-<a href="https://www.linkedin.com/in/mcunsal/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<a href="https://www.instagram.com/mahmut-cuneyt-unsal-0477a6208/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://www.linkedin.com/in/mahmut-cuneyt-unsal-0477a6208/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.instagram.com/mcunsal/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
  
  ## 🔭 I'm currently working on
 
